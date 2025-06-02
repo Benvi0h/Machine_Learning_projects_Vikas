@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Asus1/jupyter-lab/Dementia_Patient_Assistant/mlruns/0/323ea9b4d3684f688a7af3ef935a5164/artifacts
+end_time: 1747581463420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 323ea9b4d3684f688a7af3ef935a5164
+run_name: llm_output
+run_uuid: 323ea9b4d3684f688a7af3ef935a5164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747581317637
+status: 3
+tags: []
+user_id: root
